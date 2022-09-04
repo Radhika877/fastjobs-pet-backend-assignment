@@ -1,0 +1,1001 @@
+name,type,breed,age
+White-fronted capuchin,Cebus albifrons,Bettongia penicillata,1
+"Flamingo, chilean",Phoenicopterus chilensis,Falco peregrinus,2
+"Bulbul, black-eyed",Pycnonotus barbatus,Grus rubicundus,3
+"Bustard, denham's",Neotis denhami,Semnopithecus entellus,4
+"Beaver, european",Castor fiber,Boa caninus,5
+Brown antechinus,Antechinus flavipes,Leptoptilus dubius,6
+"Gnu, brindled",Connochaetus taurinus,Chionis alba,7
+Seven-banded armadillo,Dasypus septemcincus,Chlamydosaurus kingii,8
+"Wallaby, agile",Macropus agilis,Tauraco porphyrelophus,9
+Honey badger,Mellivora capensis,Sarcorhamphus papa,10
+Mallard,Anas platyrhynchos,Paraxerus cepapi,11
+"Hare, arctic",Lepus arcticus,Caiman crocodilus,12
+"Mynah, common",Acridotheres tristis,Numida meleagris,13
+Golden jackal,Canis aureus,Ninox superciliaris,14
+"Grouse, greater sage",Centrocercus urophasianus,Psittacula krameri,15
+African fish eagle,Haliaetus vocifer,Neotis denhami,16
+Carpet python,Morelia spilotes variegata,Iguana iguana,17
+Grison,Galictis vittata,Anitibyx armatus,18
+Small-toothed palm civet,Arctogalidia trivirgata,Colobus guerza,19
+"Jackal, black-backed",Canis mesomelas,Fratercula corniculata,20
+Dromedary camel,Camelus dromedarius,Butorides striatus,21
+Eastern dwarf mongoose,Helogale undulata,Balearica pavonina,22
+Swainson's francolin,Francolinus swainsonii,Cynictis penicillata,23
+Ovenbird,Seiurus aurocapillus,Eudyptula minor,24
+"Porcupine, north american",Erethizon dorsatum,Microcebus murinus,25
+Turtle (unidentified),unavailable,Numida meleagris,26
+Oriental short-clawed otter,Aonyx cinerea,Didelphis virginiana,27
+Black bear,Ursus americanus,Panthera pardus,28
+"Sparrow, rufous-collared",Zonotrichia capensis,Centrocercus urophasianus,29
+"Cormorant, neotropic",Phalacrocorax brasilianus,Physignathus cocincinus,30
+Fringe-eared oryx,Oryx gazella callotis,Smithopsis crassicaudata,31
+"Cat, miner's",Bassariscus astutus,Mazama gouazoubira,32
+"Duiker, common",Sylvicapra grimma,Colobus guerza,33
+White-necked stork,Ciconia episcopus,Uraeginthus angolensis,34
+Red-winged blackbird,Agelaius phoeniceus,Odocoileus hemionus,35
+Cape wild cat,Felis libyca,Porphyrio porphyrio,36
+Feral rock pigeon,Columba livia,Cacatua tenuirostris,37
+"Possum, golden brush-tailed",Trichosurus vulpecula,Macropus agilis,38
+"Skink, blue-tongued",Tiliqua scincoides,Corvus albus,39
+Bengal vulture,Gyps bengalensis,Larus dominicanus,40
+Wattled crane,Bugeranus caruncalatus,Anas bahamensis,41
+"Stork, black-necked",Ephippiorhynchus mycteria,Phalaropus lobatus,42
+Roseate cockatoo,Eolophus roseicapillus,Spermophilus richardsonii,43
+Steenbok,Raphicerus campestris,Cercatetus concinnus,44
+Southern tamandua,Tamandua tetradactyla,Aonyx cinerea,45
+American racer,Coluber constrictor,Ninox superciliaris,46
+"Porcupine, indian",Hystrix indica,Haematopus ater,47
+Carpet python,Morelia spilotes variegata,Castor fiber,48
+"Gonolek, burchell's",Laniaurius atrococcineus,Sula nebouxii,49
+Tailless tenrec,Tenrec ecaudatus,Nasua narica,50
+"Ibis, glossy",Plegadis falcinellus,Vicugna vicugna,51
+Feral rock pigeon,Columba livia,Alopex lagopus,52
+"Wombat, southern hairy-nosed",Lasiorhinus latifrons,Vulpes vulpes,53
+South American sea lion,Otaria flavescens,Coluber constrictor,54
+"Bat, madagascar fruit",Pteropus rufus,Ovibos moschatus,55
+White-fronted capuchin,Cebus albifrons,Cordylus giganteus,56
+"Avocet, pied",Recurvirostra avosetta,Meleagris gallopavo,57
+"Squirrel, golden-mantled ground",Spermophilus lateralis,Anas platyrhynchos,58
+Red-billed hornbill,Tockus erythrorhyncus,Sula dactylatra,59
+"Beaver, eurasian",Castor fiber,Bassariscus astutus,60
+"Cat, toddy",Paradoxurus hermaphroditus,Tachyglossus aculeatus,61
+"Peacock, blue",Pavo cristatus,Spermophilus tridecemlineatus,62
+"Glider, squirrel",Petaurus norfolcensis,Colobus guerza,63
+Pine siskin,Carduelis pinus,Ciconia episcopus,64
+Olive baboon,Papio cynocephalus,Varanus sp.,65
+"Dove, white-winged",Zenaida asiatica,Chloephaga melanoptera,66
+Tawny frogmouth,Podargus strigoides,Tadorna tadorna,67
+Long-necked turtle,Chelodina longicollis,Platalea leucordia,68
+Thirteen-lined squirrel,Spermophilus tridecemlineatus,Kobus defassa,69
+"Civet, small-toothed palm",Arctogalidia trivirgata,Ceratotherium simum,70
+"Squirrel, arctic ground",Spermophilus parryii,Eolophus roseicapillus,71
+Paca,Agouti paca,Ammospermophilus nelsoni,72
+Crowned eagle,Spizaetus coronatus,Morelia spilotes variegata,73
+Pine squirrel,Tamiasciurus hudsonicus,Ovis ammon,74
+Red-cheeked cordon bleu,Uraeginthus bengalus,Chauna torquata,75
+White-tailed deer,Odocoilenaus virginianus,Myiarchus tuberculifer,76
+"Tern, arctic",Sterna paradisaea,Larus fuliginosus,77
+"Phascogale, red-tailed",Phascogale calura,Philetairus socius,78
+Crimson-breasted shrike,Laniaurius atrococcineus,Sarkidornis melanotos,79
+"Reedbuck, bohor",Redunca redunca,Anastomus oscitans,80
+"Stork, white-necked",Ciconia episcopus,Tadorna tadorna,81
+Large cormorant,Phalacrocorax carbo,Grus rubicundus,82
+Woodchuck,Marmota monax,Centrocercus urophasianus,83
+Osprey,Pandon haliaetus,Charadrius tricollaris,84
+"Wallaby, whip-tailed",Macropus parryi,Alligator mississippiensis,85
+Indian star tortoise,Geochelone elegans,Vanessa indica,86
+South American sea lion,Otaria flavescens,Pseudalopex gymnocercus,87
+Raccoon dog,Nyctereutes procyonoides,Caiman crocodilus,88
+"Gull, lava",Larus fuliginosus,Semnopithecus entellus,89
+"Raven, white-necked",Corvus albicollis,Sciurus vulgaris,90
+"Thrasher, curve-billed",Toxostoma curvirostre,Zonotrichia capensis,91
+"Mynah, indian",Acridotheres tristis,Sarcophilus harrisii,92
+"Fox, savanna",Dusicyon thous,Otaria flavescens,93
+"Skunk, striped",Mephitis mephitis,Notechis semmiannulatus,94
+Common langur,Semnopithecus entellus,Delphinus delphis,95
+"Lion, steller sea",Eumetopias jubatus,Canis lupus lycaon,96
+"Quoll, eastern",Dasyurus viverrinus,Psophia viridis,97
+"Flycatcher, tyrant",Myiarchus tuberculifer,Equus burchelli,98
+Brown and yellow marshbird,Pseudoleistes virescens,Castor fiber,99
+"Grouse, greater sage",Centrocercus urophasianus,Nannopterum harrisi,100
+"Openbill, asian",Anastomus oscitans,Bucorvus leadbeateri,101
+"Bat, little brown",Myotis lucifugus,Sylvilagus floridanus,102
+"Bird, pied butcher",Cracticus nigroagularis,Dendrocitta vagabunda,103
+"Eagle, african fish",Haliaetus vocifer,Mazama americana,104
+Tropical buckeye butterfly,Junonia genoveua,Cacatua tenuirostris,105
+"Sandpiper, spotted wood",Tringa glareola,Hippopotamus amphibius,106
+"Wolf, mexican",Canis lupus baileyi,Gyps bengalensis,107
+Jaguar,Panthera onca,Lamprotornis superbus,108
+Secretary bird,Sagittarius serpentarius,Alcelaphus buselaphus cokii,109
+"Monkey, vervet",Cercopithecus aethiops,Otaria flavescens,110
+"Alligator, american",Alligator mississippiensis,Oryx gazella callotis,111
+"Crane, black-crowned",Balearica pavonina,Panthera leo persica,112
+Canadian river otter,Lutra canadensis,Genetta genetta,113
+Greylag goose,Anser anser,Caiman crocodilus,114
+Tropical buckeye butterfly,Junonia genoveua,Microcebus murinus,115
+Swallow (unidentified),unavailable,Spheniscus magellanicus,116
+Cattle egret,Bubulcus ibis,Trichoglossus chlorolepidotus,117
+Gray langur,Semnopithecus entellus,Cervus elaphus,118
+"Waxbill, violet-eared",Uraeginthus granatina,Tragelaphus strepsiceros,119
+"Butterfly, canadian tiger swallowtail",Papilio canadensis,Ardea golieth,120
+"Egret, snowy",Egretta thula,Redunca redunca,121
+Sockeye salmon,Oncorhynchus nerka,Canis lupus lycaon,122
+Pacific gull,Gabianus pacificus,Odocoileus hemionus,123
+"Marten, american",Martes americana,Fregata magnificans,124
+Thomson's gazelle,Gazella thompsonii,Lepus townsendii,125
+Bald eagle,Haliaeetus leucocephalus,Spermophilus parryii,126
+"Screamer, crested",Chauna torquata,Ctenophorus ornatus,127
+Blue peacock,Pavo cristatus,Bettongia penicillata,128
+"Spoonbill, european",Platalea leucordia,Macropus rufus,129
+Russian dragonfly,Libellula quadrimaculata,Dicrurus adsimilis,130
+Black-throated cardinal,Paroaria gularis,Snycerus caffer,131
+"Godwit, hudsonian",Limosa haemastica,Mirounga angustirostris,132
+"Boubou, southern",Laniarius ferrugineus,Neophoca cinerea,133
+"Bustard, denham's",Neotis denhami,Eudyptula minor,134
+"Pie, rufous tree",Dendrocitta vagabunda,Ramphastos tucanus,135
+"Boa, mexican",Boa constrictor mexicana,Theropithecus gelada,136
+"Dragon, netted rock",Ctenophorus ornatus,Spizaetus coronatus,137
+"Owl, australian masked",Tyto novaehollandiae,Corallus hortulanus cooki,138
+Zorilla,Ictonyx striatus,Eubalaena australis,139
+Hoffman's sloth,Choloepus hoffmani,Dendrocygna viduata,140
+Tayra,Eira barbata,Priodontes maximus,141
+Chameleon (unidentified),Chamaelo sp.,Spheniscus magellanicus,142
+Sarus crane,Grus antigone,Eolophus roseicapillus,143
+"Fox, blue",Alopex lagopus,Pteropus rufus,144
+Common turkey,Meleagris gallopavo,Echimys chrysurus,145
+Long-nosed bandicoot,Perameles nasuta,Choriotis kori,146
+White-mantled colobus,Colobus guerza,Equus burchelli,147
+Ring-tailed gecko,Cyrtodactylus louisiadensis,Cervus unicolor,148
+Striped skunk,Mephitis mephitis,Stercorarius longicausus,149
+"Lion, australian sea",Neophoca cinerea,Eolophus roseicapillus,150
+Ringtail,Bassariscus astutus,Tauraco porphyrelophus,151
+"Flamingo, greater",Phoenicopterus ruber,Tachyglossus aculeatus,152
+Malagasy ground boa,Acrantophis madagascariensis,Spilogale gracilis,153
+"Alligator, american",Alligator mississippiensis,Dendrocitta vagabunda,154
+Osprey,Pandon haliaetus,unavailable,155
+Galapagos mockingbird,Nesomimus trifasciatus,Climacteris melanura,156
+Red-tailed wambenger,Phascogale calura,Phascogale calura,157
+Horned puffin,Fratercula corniculata,Arctogalidia trivirgata,158
+"Bustard, kori",Choriotis kori,Francolinus swainsonii,159
+Madagascar fruit bat,Pteropus rufus,Antechinus flavipes,160
+Sun gazer,Cordylus giganteus,Ploceus intermedius,161
+"Tenrec, tailless",Tenrec ecaudatus,Tyto novaehollandiae,162
+"Hornbill, leadbeateri's ground",Bucorvus leadbeateri,Vulpes cinereoargenteus,163
+"Tern, arctic",Sterna paradisaea,Caiman crocodilus,164
+"Bat, asian false vampire",Megaderma spasma,Corvus albus,165
+"Sloth, pale-throated three-toed",Bradypus tridactylus,Alopochen aegyptiacus,166
+"Gorilla, western lowland",Gorilla gorilla,Loris tardigratus,167
+Mouflon,Ovis musimon,Eudyptula minor,168
+Impala,Aepyceros mylampus,Anhinga rufa,169
+"Nutcracker, clark's",Nucifraga columbiana,Anas bahamensis,170
+Clark's nutcracker,Nucifraga columbiana,Crotalus adamanteus,171
+Azara's zorro,Pseudalopex gymnocercus,Naja nivea,172
+Indian leopard,Panthera pardus,Damaliscus dorcas,173
+Sage hen,Centrocercus urophasianus,Lamprotornis nitens,174
+"Macaw, green-winged",Ara chloroptera,Paraxerus cepapi,175
+"Lorikeet, scaly-breasted",Trichoglossus chlorolepidotus,Ara ararauna,176
+"Fox, silver-backed",Vulpes chama,Papilio canadensis,177
+Tsessebe,Damaliscus lunatus,Limosa haemastica,178
+Yellow baboon,Papio cynocephalus,Melanerpes erythrocephalus,179
+Greater adjutant stork,Leptoptilus dubius,Coluber constrictor,180
+Australian masked owl,Tyto novaehollandiae,Thamnolaea cinnmomeiventris,181
+"Meerkat, red",Cynictis penicillata,Canis mesomelas,182
+Sage grouse,Centrocercus urophasianus,Chlidonias leucopterus,183
+"Colobus, magistrate black",Colobus guerza,Myiarchus tuberculifer,184
+African jacana,Actophilornis africanus,Laniaurius atrococcineus,185
+Vervet monkey,Cercopithecus aethiops,Ploceus intermedius,186
+"Goldeneye, barrows",Bucephala clangula,Merops bullockoides,187
+African black crake,Limnocorax flavirostra,Leipoa ocellata,188
+Striped dolphin,Stenella coeruleoalba,Himantopus himantopus,189
+Dusky rattlesnake,Crotalus triseriatus,Tragelaphus angasi,190
+Western lowland gorilla,Gorilla gorilla,Pitangus sulphuratus,191
+Two-toed tree sloth,Choloepus hoffmani,Axis axis,192
+Fork-tailed drongo,Dicrurus adsimilis,Acrantophis madagascariensis,193
+Ring-necked pheasant,Phasianus colchicus,Coendou prehensilis,194
+Sambar,Cervus unicolor,Chlamydosaurus kingii,195
+Dabchick,Tachybaptus ruficollis,Antilocapra americana,196
+Pied cormorant,Phalacrocorax varius,Carduelis pinus,197
+Openbill stork,Anastomus oscitans,Myrmecobius fasciatus,198
+Capybara,Hydrochoerus hydrochaeris,Oncorhynchus nerka,199
+Greater roadrunner,Geococcyx californianus,Cebus nigrivittatus,200
+"Seal, common",Phoca vitulina,Ceryle rudis,201
+Gelada baboon,Theropithecus gelada,Lycaon pictus,202
+Tropical buckeye butterfly,Junonia genoveua,Paroaria gularis,203
+"Weaver, chestnut",Ploceus rubiginosus,Trichoglossus haematodus moluccanus,204
+"Pheasant, ring-necked",Phasianus colchicus,Ictalurus furcatus,205
+White-throated monitor,Varanus albigularis,Xerus sp.,206
+"Wolf, mexican",Canis lupus baileyi,Melophus lathami,207
+"Brocket, brown",Mazama gouazoubira,Ephippiorhynchus mycteria,208
+Potoroo,Potorous tridactylus,Lutra canadensis,209
+"Beaver, american",Castor canadensis,Phascogale calura,210
+"Snake, green vine",Oxybelis fulgidus,Bubo virginianus,211
+Cape clawless otter,Aonyx capensis,Leptoptilos crumeniferus,212
+Long-necked turtle,Chelodina longicollis,Epicrates cenchria maurus,213
+"Wallaby, red-necked",Macropus rufogriseus,Spizaetus coronatus,214
+"Beaver, eurasian",Castor fiber,Canis aureus,215
+Genoveva,Junonia genoveua,Phalaropus fulicarius,216
+"Gnu, brindled",Connochaetus taurinus,Raphicerus campestris,217
+"Skunk, western spotted",Spilogale gracilis,Chauna torquata,218
+Crested screamer,Chauna torquata,Phasianus colchicus,219
+Pallas's fish eagle,Haliaeetus leucoryphus,Mycteria ibis,220
+Seven-banded armadillo,Dasypus septemcincus,Larus dominicanus,221
+"Baboon, gelada",Theropithecus gelada,Vulpes vulpes,222
+Levaillant's barbet,Trachyphonus vaillantii,Choriotis kori,223
+"Otter, north american river",Lutra canadensis,Phasianus colchicus,224
+"Squirrel, uinta ground",Spermophilus armatus,Limosa haemastica,225
+Elegant crested tinamou,Eudromia elegans,Ursus maritimus,226
+"Snake, racer",Coluber constrictor,Eunectes sp.,227
+Black-tailed prairie dog,Cynomys ludovicianus,Colaptes campestroides,228
+African ground squirrel (unidentified),Xerus sp.,Hystrix cristata,229
+"Cobra, egyptian",Naja haje,Larus novaehollandiae,230
+"Alligator, american",Alligator mississippiensis,Manouria emys,231
+"Stork, yellow-billed",Mycteria ibis,Semnopithecus entellus,232
+Frog (unidentified),Rana sp.,Phalaropus fulicarius,233
+Striped hyena,Hyaena hyaena,Nucifraga columbiana,234
+Urial,Ovis orientalis,Salvadora hexalepis,235
+Seven-banded armadillo,Dasypus septemcincus,Tauraco porphyrelophus,236
+"Rat, white-faced tree",Echimys chrysurus,Vombatus ursinus,237
+"Cat, tiger",Dasyurus maculatus,Corvus brachyrhynchos,238
+Ring-tailed coatimundi,Nasua nasua,Mazama gouazoubira,239
+"Moorhen, purple",Porphyrio porphyrio,Grus antigone,240
+Euro wallaby,Macropus robustus,Thamnolaea cinnmomeiventris,241
+"Porcupine, african",Hystrix cristata,Spermophilus tridecemlineatus,242
+"Starling, cape",Lamprotornis nitens,Eolophus roseicapillus,243
+"Bear, grizzly",Ursus arctos,Meles meles,244
+"Stork, white",Ciconia ciconia,Gyps fulvus,245
+Tawny eagle,Anitibyx armatus,Choriotis kori,246
+"Fox, arctic",Alopex lagopus,Lophoaetus occipitalis,247
+Pig-tailed macaque,Macaca nemestrina,Phoenicopterus ruber,248
+"Toucan, red-billed",Ramphastos tucanus,Prionace glauca,249
+Monitor lizard (unidentified),Varanus sp.,Cebus nigrivittatus,250
+"Deer, barasingha",Cervus duvauceli,Eumetopias jubatus,251
+Common langur,Semnopithecus entellus,Crocuta crocuta,252
+"Squirrel, european red",Sciurus vulgaris,Macropus eugenii,253
+Southern lapwing,Vanellus chilensis,Zenaida galapagoensis,254
+"Squirrel, eastern fox",Sciurus niger,Coluber constrictor,255
+Yellow-billed stork,Mycteria ibis,Bucephala clangula,256
+"Goose, greylag",Anser anser,Choriotis kori,257
+South American meadowlark (unidentified),unavailable,Haliaeetus leucoryphus,258
+"Boa, malagasy ground",Acrantophis madagascariensis,Ara ararauna,259
+Red-cheeked cordon bleu,Uraeginthus bengalus,Aonyx cinerea,260
+"Monitor, white-throated",Varanus albigularis,Psophia viridis,261
+Dusky rattlesnake,Crotalus triseriatus,Tenrec ecaudatus,262
+Aardwolf,Proteles cristatus,Morelia spilotes variegata,263
+"Pie, indian tree",Dendrocitta vagabunda,Butorides striatus,264
+Cheetah,Acinynox jubatus,Tadorna tadorna,265
+Snake (unidentified),unavailable,Dasyurus viverrinus,266
+Stanley bustard,Neotis denhami,Ephipplorhynchus senegalensis,267
+Little brown bat,Myotis lucifugus,Geochelone elephantopus,268
+Blue and yellow macaw,Ara ararauna,unavailable,269
+"Lion, steller's sea",Eumetopias jubatus,Herpestes javanicus,270
+Four-horned antelope,Tetracerus quadricornis,Turtur chalcospilos,271
+Radiated tortoise,Geochelone radiata,Cercatetus concinnus,272
+Pampa gray fox,Pseudalopex gymnocercus,Gazella granti,273
+Common dolphin,Delphinus delphis,Lutra canadensis,274
+Cuis,Microcavia australis,Microcebus murinus,275
+"Cormorant, king",Phalacrocorax albiventer,Castor canadensis,276
+Indian peacock,Pavo cristatus,Macropus giganteus,277
+Greater kudu,Tragelaphus strepsiceros,Cacatua tenuirostris,278
+"Tortoise, desert",Gopherus agassizii,Nasua nasua,279
+"Finch, common melba",Pytilia melba,Coluber constrictor,280
+"Porcupine, prehensile-tailed",Coendou prehensilis,Sitta canadensis,281
+Red sheep,Ovis ammon,Cervus duvauceli,282
+"Snake, eastern indigo",Drymarchon corias couperi,Ursus arctos,283
+Eurasian beaver,Castor fiber,Zosterops pallidus,284
+Arboral spiny rat,Echimys chrysurus,Connochaetus taurinus,285
+"Egret, great",Casmerodius albus,Phalacrocorax albiventer,286
+"Grebe, little",Tachybaptus ruficollis,Tauraco porphyrelophus,287
+"Stilt, black-winged",Himantopus himantopus,Sula dactylatra,288
+Tokay gecko,Gekko gecko,Larus novaehollandiae,289
+"Peacock, blue",Pavo cristatus,Alces alces,290
+"Heron, giant",Ardea golieth,Bucephala clangula,291
+"Lion, australian sea",Neophoca cinerea,Acanthaster planci,292
+"Toucan, white-throated",Ramphastos tucanus,Alcelaphus buselaphus cokii,293
+African snake (unidentified),unavailable,Speothos vanaticus,294
+"Siskin, pine",Carduelis pinus,Pelecanus occidentalis,295
+Black-necked stork,Ephippiorhynchus mycteria,Cebus nigrivittatus,296
+"Fox, cape",Vulpes chama,Pelecans onocratalus,297
+Laughing kookaburra,Dacelo novaeguineae,Echimys chrysurus,298
+Common pheasant,Phasianus colchicus,Globicephala melas,299
+"Raven, cape",Corvus albicollis,Catharacta skua,300
+"Goose, andean",Chloephaga melanoptera,Eubalaena australis,301
+Russian dragonfly,Libellula quadrimaculata,Phalacrocorax albiventer,302
+"Squirrel, grey-footed",Paraxerus cepapi,Funambulus pennati,303
+Tayra,Eira barbata,Alouatta seniculus,304
+Blue peacock,Pavo cristatus,Meleagris gallopavo,305
+"Snake, racer",Coluber constrictor,Pavo cristatus,306
+"Fox, north american red",Vulpes vulpes,Vulpes chama,307
+"Deer, white-tailed",Odocoilenaus virginianus,Estrilda erythronotos,308
+Toddy cat,Paradoxurus hermaphroditus,Aonyx capensis,309
+Cheetah,Acinynox jubatus,Phalaropus lobatus,310
+Prairie falcon,Falco mexicanus,Bucephala clangula,311
+Hippopotamus,Hippopotamus amphibius,Falco mexicanus,312
+Lizard (unidentified),unavailable,Cordylus giganteus,313
+Tawny eagle,Anitibyx armatus,Phalaropus fulicarius,314
+"Duck, mountain",Hymenolaimus malacorhynchus,Cygnus buccinator,315
+"Heron, giant",Ardea golieth,Felis concolor,316
+"Sloth, pale-throated three-toed",Bradypus tridactylus,Spermophilus tridecemlineatus,317
+Savanna baboon,Papio cynocephalus,Hystrix indica,318
+Giant heron,Ardea golieth,Hippotragus niger,319
+"Vulture, egyptian",Neophron percnopterus,Geococcyx californianus,320
+Southern screamer,Chauna torquata,Ratufa indica,321
+Galapagos mockingbird,Nesomimus trifasciatus,Lasiodora parahybana,322
+European spoonbill,Platalea leucordia,Stercorarius longicausus,323
+Southern tamandua,Tamandua tetradactyla,Antilocapra americana,324
+"Dove, rock",Columba livia,Varanus komodensis,325
+"Screamer, crested",Chauna torquata,Picoides pubescens,326
+Cape cobra,Naja nivea,Ciconia episcopus,327
+Springhare,Pedetes capensis,unavailable,328
+"Bustard, kori",Choriotis kori,Francolinus coqui,329
+"Nuthatch, red-breasted",Sitta canadensis,Sciurus vulgaris,330
+Springbuck,Antidorcas marsupialis,Bucephala clangula,331
+"Rhea, greater",Rhea americana,Sylvilagus floridanus,332
+"Otter, oriental short-clawed",Aonyx cinerea,Trichosurus vulpecula,333
+Coqui francolin,Francolinus coqui,Ovis ammon,334
+Red-billed buffalo weaver,Bubalornis niger,Canis lupus,335
+Common nighthawk,Chordeiles minor,Crotalus cerastes,336
+"Deer, barasingha",Cervus duvauceli,Martes pennanti,337
+"Penguin, fairy",Eudyptula minor,Melanerpes erythrocephalus,338
+Dusky gull,Larus fuliginosus,Macropus agilis,339
+"Plover, three-banded",Charadrius tricollaris,Fregata magnificans,340
+Red phalarope,Phalaropus fulicarius,Theropithecus gelada,341
+Mountain goat,Oreamnos americanus,Cyrtodactylus louisiadensis,342
+"Monkey, rhesus",Macaca mulatta,Catharacta skua,343
+Greater adjutant stork,Leptoptilus dubius,Pitangus sulphuratus,344
+Tasmanian devil,Sarcophilus harrisii,Dendrocitta vagabunda,345
+"Crow, american",Corvus brachyrhynchos,Equus burchelli,346
+"Monkey, vervet",Cercopithecus aethiops,Mazama gouazoubira,347
+Marine iguana,Amblyrhynchus cristatus,Conolophus subcristatus,348
+Blacksmith plover,Vanellus armatus,Philetairus socius,349
+"Pelican, eastern white",Pelecans onocratalus,Thamnolaea cinnmomeiventris,350
+Red phalarope,Phalaropus fulicarius,Conolophus subcristatus,351
+"Cobra, cape",Naja nivea,Theropithecus gelada,352
+"Kookaburra, laughing",Dacelo novaeguineae,Connochaetus taurinus,353
+Yellow-bellied marmot,Marmota flaviventris,Connochaetus taurinus,354
+Woylie,Bettongia penicillata,Ursus americanus,355
+"Bulbul, black-eyed",Pycnonotus barbatus,Merops bullockoides,356
+Crab (unidentified),unavailable,Egretta thula,357
+"Cormorant, javanese",Phalacrocorax niger,Odocoileus hemionus,358
+"Heron, gray",Ardea cinerea,Spilogale gracilis,359
+Superb starling,Lamprotornis superbus,Galago crassicaudataus,360
+Bird (unidentified),unavailable,Rhea americana,361
+"Cat, miner's",Bassariscus astutus,Sylvilagus floridanus,362
+"Porcupine, tree",Coendou prehensilis,Trichoglossus chlorolepidotus,363
+Common seal,Phoca vitulina,Vulpes cinereoargenteus,364
+Tsessebe,Damaliscus lunatus,Felis silvestris lybica,365
+White-throated kingfisher,Halcyon smyrnesis,Ammospermophilus nelsoni,366
+Southern right whale,Eubalaena australis,Laniarius ferrugineus,367
+Black kite,Milvus migrans,Perameles nasuta,368
+"Capuchin, white-fronted",Cebus albifrons,Oxybelis fulgidus,369
+"Macaque, rhesus",Macaca mulatta,Uraeginthus granatina,370
+"Lion, australian sea",Neophoca cinerea,Kobus defassa,371
+"Dolphin, common",Delphinus delphis,Procyon lotor,372
+"Darter, african",Anhinga rufa,Mazama gouazoubira,373
+"Cat, jungle",Felis chaus,Zalophus californicus,374
+"Bird, secretary",Sagittarius serpentarius,Alcelaphus buselaphus caama,375
+"Legaan, water",Varanus salvator,Potamochoerus porcus,376
+Black-capped chickadee,Parus atricapillus,Ourebia ourebi,377
+"Jackrabbit, white-tailed",Lepus townsendii,unavailable,378
+"Goose, cape barren",Cereopsis novaehollandiae,Ara ararauna,379
+"Rattlesnake, eastern diamondback",Crotalus adamanteus,Canis lupus lycaon,380
+"Stork, white-necked",Ciconia episcopus,Diomedea irrorata,381
+"Tenrec, tailless",Tenrec ecaudatus,Larus fuliginosus,382
+European wild cat,Felis silvestris lybica,Eubalaena australis,383
+Sacred ibis,Threskionis aethiopicus,Graspus graspus,384
+"Cat, tiger",Dasyurus maculatus,Pycnonotus barbatus,385
+"Coatimundi, ring-tailed",Nasua nasua,Anthropoides paradisea,386
+"Creeper, black-tailed tree",Climacteris melanura,Ceratotherium simum,387
+Blue duck,Hymenolaimus malacorhynchus,Charadrius tricollaris,388
+"Baboon, gelada",Theropithecus gelada,Cereopsis novaehollandiae,389
+Cheetah,Acinynox jubatus,Dacelo novaeguineae,390
+"Thrasher, curve-billed",Toxostoma curvirostre,Epicrates cenchria maurus,391
+"Blackbird, red-winged",Agelaius phoeniceus,Cervus canadensis,392
+Roseat flamingo,Phoenicopterus ruber,Phalacrocorax albiventer,393
+"Fox, grey",Vulpes cinereoargenteus,Choriotis kori,394
+Galapagos tortoise,Geochelone elephantopus,unavailable,395
+Stick insect,Leprocaulinus vipera,Mazama americana,396
+"Shrike, crimson-breasted",Laniaurius atrococcineus,Neotis denhami,397
+"Fox, north american red",Vulpes vulpes,Mirounga leonina,398
+Arboral spiny rat,Echimys chrysurus,Zosterops pallidus,399
+American marten,Martes americana,Uraeginthus granatina,400
+"Sheep, red",Ovis ammon,Pseudoleistes virescens,401
+"Dog, black-tailed prairie",Cynomys ludovicianus,Dendrocygna viduata,402
+"Sunbird, lesser double-collared",Nectarinia chalybea,Lamprotornis superbus,403
+Greater adjutant stork,Leptoptilus dubius,Meleagris gallopavo,404
+"Stork, marabou",Leptoptilos crumeniferus,Naja nivea,405
+Pied butcher bird,Cracticus nigroagularis,Meleagris gallopavo,406
+"Cliffchat, mocking",Thamnolaea cinnmomeiventris,Tauraco porphyrelophus,407
+"Iguana, marine",Amblyrhynchus cristatus,Canis aureus,408
+Eagle owl (unidentified),Bubo sp.,Merops nubicus,409
+"Porcupine, tree",Coendou prehensilis,Ara chloroptera,410
+"Possum, golden brush-tailed",Trichosurus vulpecula,Drymarchon corias couperi,411
+Black-tailed deer,Odocoileus hemionus,Cercatetus concinnus,412
+Pied butcher bird,Cracticus nigroagularis,Crotalus cerastes,413
+"Capuchin, weeper",Cebus nigrivittatus,Cebus apella,414
+"Mynah, indian",Acridotheres tristis,Trachyphonus vaillantii,415
+European badger,Meles meles,Gyps bengalensis,416
+"Pheasant, ring-necked",Phasianus colchicus,Canis latrans,417
+"Cobra, egyptian",Naja haje,Ara chloroptera,418
+"Spurfowl, yellow-necked",Francolinus leucoscepus,Plegadis falcinellus,419
+Curve-billed thrasher,Toxostoma curvirostre,Cynictis penicillata,420
+Large cormorant,Phalacrocorax carbo,Mirounga leonina,421
+Grey-footed squirrel,Paraxerus cepapi,Nyctea scandiaca,422
+"Quoll, spotted-tailed",Dasyurus maculatus,Coluber constrictor,423
+Scarlet macaw,Ara macao,Psophia viridis,424
+Jungle cat,Felis chaus,Bassariscus astutus,425
+Coke's hartebeest,Alcelaphus buselaphus cokii,Iguana iguana,426
+"Eagle, pallas's fish",Haliaeetus leucoryphus,Pterocles gutturalis,427
+Roan antelope,Hippotragus equinus,Papio ursinus,428
+Lizard (unidentified),unavailable,Varanus sp.,429
+Collared lemming,Dicrostonyx groenlandicus,Tapirus terrestris,430
+"Heron, gray",Ardea cinerea,Creagrus furcatus,431
+"Pelican, eastern white",Pelecans onocratalus,Coendou prehensilis,432
+"Gecko, barking",Phylurus milli,Columba palumbus,433
+Common rhea,Rhea americana,Bassariscus astutus,434
+Square-lipped rhinoceros,Ceratotherium simum,Stercorarius longicausus,435
+Eagle owl (unidentified),Bubo sp.,Hyaena hyaena,436
+Argalis,Ovis ammon,Deroptyus accipitrinus,437
+Little cormorant,Phalacrocorax niger,Lamprotornis superbus,438
+Eurasian badger,Meles meles,Delphinus delphis,439
+"Pie, rufous tree",Dendrocitta vagabunda,Chloephaga melanoptera,440
+"Partridge, coqui",Francolinus coqui,Colobus guerza,441
+"Grenadier, purple",Uraeginthus granatina,Francolinus leucoscepus,442
+"Dove, white-winged",Zenaida asiatica,Haliaeetus leucocephalus,443
+"Dove, rock",Columba livia,Acrobates pygmaeus,444
+Brolga crane,Grus rubicundus,Numida meleagris,445
+"Langur, common",Semnopithecus entellus,Oryx gazella,446
+River wallaby,Macropus agilis,Ceratotherium simum,447
+"Hornbill, leadbeateri's ground",Bucorvus leadbeateri,Branta canadensis,448
+American marten,Martes americana,Macropus agilis,449
+Lilac-breasted roller,Coracias caudata,Choloepus hoffmani,450
+"Elephant, african",Loxodonta africana,Eubalaena australis,451
+Meerkat,Suricata suricatta,Isoodon obesulus,452
+American marten,Martes americana,Nectarinia chalybea,453
+Eastern fox squirrel,Sciurus niger,Lorythaixoides concolor,454
+"Bat, little brown",Myotis lucifugus,Pteropus rufus,455
+"Screamer, crested",Chauna torquata,Larus sp.,456
+Common zorro,Dusicyon thous,Larus fuliginosus,457
+Adouri (unidentified),unavailable,Tetracerus quadricornis,458
+Blue-faced booby,Sula dactylatra,Ctenophorus ornatus,459
+Chacma baboon,Papio ursinus,Sagittarius serpentarius,460
+"Bear, black",Ursus americanus,Cathartes aura,461
+South African hedgehog,Erinaceus frontalis,Anastomus oscitans,462
+Galapagos penguin,Spheniscus mendiculus,Delphinus delphis,463
+"Dog, black-tailed prairie",Cynomys ludovicianus,Haematopus ater,464
+"Deer, spotted",Axis axis,Pteropus rufus,465
+"Whale, baleen",Eubalaena australis,Ictonyx striatus,466
+Yak,Bos mutus,Dendrocitta vagabunda,467
+"Otter, brazilian",Pteronura brasiliensis,Cervus duvauceli,468
+Koala,Phascolarctos cinereus,Pycnonotus nigricans,469
+"Cockatoo, red-breasted",Eolophus roseicapillus,Trachyphonus vaillantii,470
+"Chipmunk, least",Eutamias minimus,Paraxerus cepapi,471
+"Boa, mexican",Boa constrictor mexicana,Numida meleagris,472
+Bushpig,Potamochoerus porcus,unavailable,473
+Paddy heron (unidentified),unavailable,Anas bahamensis,474
+Snake-necked turtle,Chelodina longicollis,Eurocephalus anguitimens,475
+"Stork, openbill",Anastomus oscitans,Cathartes aura,476
+European red squirrel,Sciurus vulgaris,Ciconia ciconia,477
+Trumpeter swan,Cygnus buccinator,Ovis dalli stonei,478
+Bleeding heart monkey,Theropithecus gelada,Anas bahamensis,479
+Ibex,Capra ibex,Buteo galapagoensis,480
+Oriental white-backed vulture,Gyps bengalensis,Sciurus niger,481
+Eastern grey kangaroo,Macropus giganteus,Cyrtodactylus louisiadensis,482
+"Squirrel, pine",Tamiasciurus hudsonicus,Carduelis uropygialis,483
+Brown antechinus,Antechinus flavipes,Anser anser,484
+Grey phalarope,Phalaropus fulicarius,Varanus sp.,485
+"Screamer, southern",Chauna torquata,Pycnonotus barbatus,486
+"Whale, baleen",Eubalaena australis,Propithecus verreauxi,487
+Kongoni,Alcelaphus buselaphus cokii,Leptoptilos crumeniferus,488
+"Nighthawk, common",Chordeiles minor,Pavo cristatus,489
+House crow,Corvus brachyrhynchos,Bubalus arnee,490
+Groundhog,Marmota monax,Chelodina longicollis,491
+Kafue flats lechwe,Kobus leche robertsi,Hyaena brunnea,492
+Red-billed toucan,Ramphastos tucanus,Colobus guerza,493
+"Rattlesnake, dusky",Crotalus triseriatus,Panthera tigris,494
+Red-tailed cockatoo,Calyptorhynchus magnificus,Herpestes javanicus,495
+"Vulture, black",Aegypius tracheliotus,Panthera leo,496
+"Bee-eater, carmine",Merops nubicus,Lybius torquatus,497
+"Crake, african black",Limnocorax flavirostra,Globicephala melas,498
+Neotropic cormorant,Phalacrocorax brasilianus,Aonyx cinerea,499
+"Gull, pacific",Gabianus pacificus,Pseudocheirus peregrinus,500
+Kinkajou,Potos flavus,Antidorcas marsupialis,501
+Western grey kangaroo,Macropus fuliginosus,Francolinus leucoscepus,502
+Collared lizard,Crotaphytus collaris,Dendrohyrax brucel,503
+Jabiru stork,Ephippiorhynchus mycteria,Felis concolor,504
+"Grebe, little",Tachybaptus ruficollis,Pelecans onocratalus,505
+"Buffalo, american",Bison bison,Lasiorhinus latifrons,506
+Clark's nutcracker,Nucifraga columbiana,Anas punctata,507
+Chimpanzee,Pan troglodytes,Agkistrodon piscivorus,508
+Sulfur-crested cockatoo,Cacatua galerita,Equus hemionus,509
+Brown and yellow marshbird,Pseudoleistes virescens,Deroptyus accipitrinus,510
+"Hyena, spotted",Crocuta crocuta,Ovis ammon,511
+Roan antelope,Hippotragus equinus,Antidorcas marsupialis,512
+Gulls (unidentified),Larus sp.,Panthera pardus,513
+"Python, carpet",Morelia spilotes variegata,Plocepasser mahali,514
+Steller sea lion,Eumetopias jubatus,Otaria flavescens,515
+Large cormorant,Phalacrocorax carbo,Sylvicapra grimma,516
+Malay squirrel (unidentified),unavailable,Cervus unicolor,517
+Common eland,Taurotagus oryx,Streptopelia senegalensis,518
+"Quoll, spotted-tailed",Dasyurus maculatus,Nucifraga columbiana,519
+"Baboon, gelada",Theropithecus gelada,Hymenolaimus malacorhynchus,520
+Common zebra,Equus burchelli,Phoeniconaias minor,521
+Ringtail,Bassariscus astutus,Camelus dromedarius,522
+"Seal, northern elephant",Mirounga angustirostris,Ciconia episcopus,523
+Lizard (unidentified),unavailable,Didelphis virginiana,524
+Brush-tailed phascogale,Phascogale tapoatafa,Phalacrocorax carbo,525
+"Bird, magnificent frigate",Fregata magnificans,Aegypius tracheliotus,526
+"Bunting, crested",Melophus lathami,unavailable,527
+Steenbuck,Raphicerus campestris,Lorythaixoides concolor,528
+"Sparrow, house",Passer domesticus,Mazama americana,529
+Hudsonian godwit,Limosa haemastica,Deroptyus accipitrinus,530
+Prairie falcon,Falco mexicanus,Agkistrodon piscivorus,531
+White-fronted capuchin,Cebus albifrons,Lamprotornis nitens,532
+"Penguin, magellanic",Spheniscus magellanicus,Columba palumbus,533
+Kaffir cat,Felis silvestris lybica,Gazella thompsonii,534
+Golden jackal,Canis aureus,Bettongia penicillata,535
+Red-breasted cockatoo,Eolophus roseicapillus,unavailable,536
+Crimson-breasted shrike,Laniaurius atrococcineus,Corvus brachyrhynchos,537
+Warthog,Phacochoerus aethiopus,Choriotis kori,538
+Indian mynah,Acridotheres tristis,unavailable,539
+"Lion, asian",Panthera leo persica,Haliaetus leucogaster,540
+"Baboon, yellow",Papio cynocephalus,Lemur fulvus,541
+Canadian tiger swallowtail butterfly,Papilio canadensis,Chlidonias leucopterus,542
+"Kiskadee, great",Pitangus sulphuratus,Megaderma spasma,543
+"Ibis, sacred",Threskionis aethiopicus,Kobus vardonii vardoni,544
+"Lemur, grey mouse",Microcebus murinus,Tenrec ecaudatus,545
+"Bustard, kori",Choriotis kori,Vulpes vulpes,546
+"Tortoise, asian foreset",Manouria emys,Ovis musimon,547
+"Reedbuck, bohor",Redunca redunca,Gyps fulvus,548
+"Lapwing, southern",Vanellus chilensis,Spermophilus tridecemlineatus,549
+"Beaver, european",Castor fiber,Acrobates pygmaeus,550
+"Lemur, sportive",Lepilemur rufescens,Ardea golieth,551
+"Crab, red lava",Graspus graspus,Canis mesomelas,552
+Eastern quoll,Dasyurus viverrinus,Tursiops truncatus,553
+Lappet-faced vulture,Aegypius tracheliotus,Sus scrofa,554
+Springbuck,Antidorcas marsupialis,Uraeginthus angolensis,555
+Indian jackal,Canis aureus,Alectura lathami,556
+"Tortoise, galapagos",Geochelone elephantopus,Picoides pubescens,557
+"Dunnart, fat-tailed",Smithopsis crassicaudata,Mazama gouazoubira,558
+Malabar squirrel,Ratufa indica,Crotalus adamanteus,559
+"Hawk-eagle, crowned",Spizaetus coronatus,Dasyurus viverrinus,560
+Harbor seal,Phoca vitulina,Coluber constrictor foxii,561
+Square-lipped rhinoceros,Ceratotherium simum,Trichoglossus chlorolepidotus,562
+"Bird, secretary",Sagittarius serpentarius,unavailable,563
+American crow,Corvus brachyrhynchos,Cygnus buccinator,564
+King vulture,Sarcorhamphus papa,Sciurus niger,565
+Grey phalarope,Phalaropus fulicarius,Felis concolor,566
+Egyptian vulture,Neophron percnopterus,Megaderma spasma,567
+"Gnu, brindled",Connochaetus taurinus,Uraeginthus angolensis,568
+"Squirrel, uinta ground",Spermophilus armatus,Ursus americanus,569
+Magistrate black colobus,Colobus guerza,Neotis denhami,570
+"Squirrel, grey-footed",Paraxerus cepapi,Lorythaixoides concolor,571
+South American puma,Felis concolor,Gekko gecko,572
+Gecko (unidentified),unavailable,Macropus agilis,573
+"Weaver, chestnut",Ploceus rubiginosus,Haliaetus leucogaster,574
+"Squirrel, arctic ground",Spermophilus parryii,Macropus robustus,575
+"Python, carpet",Morelia spilotes variegata,Cathartes aura,576
+Cuis,Microcavia australis,Dipodomys deserti,577
+Campo flicker,Colaptes campestroides,Ramphastos tucanus,578
+"Teal, hottentot",Anas punctata,Trichosurus vulpecula,579
+Sidewinder,Crotalus cerastes,Acridotheres tristis,580
+"Raven, white-necked",Corvus albicollis,Estrilda erythronotos,581
+Currasow (unidentified),Crax sp.,Dasyurus maculatus,582
+"Bat, little brown",Myotis lucifugus,Pycnonotus barbatus,583
+Four-horned antelope,Tetracerus quadricornis,Callorhinus ursinus,584
+Black-collared barbet,Lybius torquatus,Limnocorax flavirostra,585
+Black curlew,Haematopus ater,Irania gutteralis,586
+Stick insect,Leprocaulinus vipera,Panthera pardus,587
+Gila monster,Heloderma horridum,Paraxerus cepapi,588
+Ground legaan,Varanus sp.,Aquila chrysaetos,589
+"Duiker, common",Sylvicapra grimma,Bison bison,590
+Brown brocket,Mazama gouazoubira,Ursus americanus,591
+Yellow-billed hornbill,Tockus flavirostris,Haliaeetus leucocephalus,592
+Turkey vulture,Cathartes aura,Tamiasciurus hudsonicus,593
+Asiatic jackal,Canis aureus,Buteo galapagoensis,594
+"Stork, jabiru",Ephippiorhynchus mycteria,Graspus graspus,595
+Red brocket,Mazama americana,Diomedea irrorata,596
+Barking gecko,Phylurus milli,Colaptes campestroides,597
+Mallard,Anas platyrhynchos,Aegypius tracheliotus,598
+"Sheep, american bighorn",Ovis canadensis,Cereopsis novaehollandiae,599
+"Opossum, american virginia",Didelphis virginiana,Nasua narica,600
+Red hartebeest,Alcelaphus buselaphus caama,Mustela nigripes,601
+"Monitor, water",Varanus salvator,Anser anser,602
+Green-winged trumpeter,Psophia viridis,Heloderma horridum,603
+"Crab, sally lightfoot",Graspus graspus,Parus atricapillus,604
+"Kangaroo, black-faced",Macropus fuliginosus,Cacatua galerita,605
+"Robin, kalahari scrub",Certotrichas paena,Colobus guerza,606
+Scaly-breasted lorikeet,Trichoglossus chlorolepidotus,Sus scrofa,607
+Pied cormorant,Phalacrocorax varius,Charadrius tricollaris,608
+"Jackal, golden",Canis aureus,Centrocercus urophasianus,609
+Australian masked owl,Tyto novaehollandiae,Myiarchus tuberculifer,610
+Indian giant squirrel,Ratufa indica,Varanus salvator,611
+Tawny frogmouth,Podargus strigoides,Macaca mulatta,612
+"Squirrel, smith's bush",Paraxerus cepapi,Pelecanus conspicillatus,613
+"Stork, european",Ciconia ciconia,Centrocercus urophasianus,614
+"Dragonfly, russian",Libellula quadrimaculata,Dusicyon thous,615
+Asian water dragon,Physignathus cocincinus,Litrocranius walleri,616
+Pig-tailed macaque,Macaca nemestrina,Phalacrocorax carbo,617
+"White-eye, cape",Zosterops pallidus,Sylvilagus floridanus,618
+"Squirrel, red",Tamiasciurus hudsonicus,Crocuta crocuta,619
+Emerald-spotted wood dove,Turtur chalcospilos,Paradoxurus hermaphroditus,620
+Gaur,Bos frontalis,Castor canadensis,621
+"Bird, pied butcher",Cracticus nigroagularis,Casmerodius albus,622
+"Gazelle, thomson's",Gazella thompsonii,Neophron percnopterus,623
+"Loris, slender",Loris tardigratus,Phoca vitulina,624
+House sparrow,Passer domesticus,Dasyurus maculatus,625
+"Tenrec, tailless",Tenrec ecaudatus,Ictalurus furcatus,626
+"Kite, black",Milvus migrans,Pycnonotus nigricans,627
+Two-toed sloth,Choloepus hoffmani,Mazama gouazoubira,628
+"Waxbill, violet-eared",Uraeginthus granatina,Alopochen aegyptiacus,629
+"Armadillo, nine-banded",Dasypus novemcinctus,Ephippiorhynchus mycteria,630
+Japanese macaque,Macaca fuscata,Ursus americanus,631
+Southern elephant seal,Mirounga leonina,Limnocorax flavirostra,632
+"Rhea, greater",Rhea americana,Felis concolor,633
+Common wombat,Vombatus ursinus,Alces alces,634
+Common dolphin,Delphinus delphis,Nyctea scandiaca,635
+"Kookaburra, laughing",Dacelo novaeguineae,Anthropoides paradisea,636
+"Dove, mourning collared",Streptopelia decipiens,Trichoglossus chlorolepidotus,637
+Fat-tailed dunnart,Smithopsis crassicaudata,Streptopelia senegalensis,638
+Great egret,Casmerodius albus,Francolinus coqui,639
+Bonnet macaque,Macaca radiata,Theropithecus gelada,640
+Numbat,Myrmecobius fasciatus,Crotalus cerastes,641
+Oriental short-clawed otter,Aonyx cinerea,Rhea americana,642
+"Stork, jabiru",Ephippiorhynchus mycteria,Gabianus pacificus,643
+African skink,Mabuya spilogaster,Alopochen aegyptiacus,644
+Cattle egret,Bubulcus ibis,Carduelis uropygialis,645
+"Cockatoo, roseate",Eolophus roseicapillus,Vulpes chama,646
+Swamp deer,Cervus duvauceli,Gopherus agassizii,647
+"Heron, boat-billed",Cochlearius cochlearius,Tadorna tadorna,648
+African ground squirrel (unidentified),Xerus sp.,Choloepus hoffmani,649
+"Otter, giant",Pteronura brasiliensis,Laniaurius atrococcineus,650
+Galapagos tortoise,Geochelone elephantopus,Phascogale tapoatafa,651
+African ground squirrel (unidentified),Xerus sp.,Coluber constrictor,652
+"Oryx, beisa",Oryx gazella,Anthropoides paradisea,653
+Mocking cliffchat,Thamnolaea cinnmomeiventris,Microcebus murinus,654
+Pacific gull,Gabianus pacificus,Bassariscus astutus,655
+"Crab, sally lightfoot",Graspus graspus,Tyto novaehollandiae,656
+"Jackal, asiatic",Canis aureus,Panthera leo,657
+"Eland, common",Taurotagus oryx,Ornithorhynchus anatinus,658
+"Lemur, sportive",Lepilemur rufescens,Bucephala clangula,659
+"Bat, little brown",Myotis lucifugus,Phalaropus lobatus,660
+Rufous-collared sparrow,Zonotrichia capensis,Caiman crocodilus,661
+"Fox, asian red",Vulpes vulpes,Anas punctata,662
+"Peccary, white-lipped",Tayassu pecari,Geochelone elegans,663
+"Lynx, african",Felis caracal,Tetracerus quadricornis,664
+"Weaver, white-browed sparrow",Plocepasser mahali,Cyrtodactylus louisiadensis,665
+Agama lizard (unidentified),Agama sp.,Upupa epops,666
+"Whale, southern right",Eubalaena australis,Bison bison,667
+"Heron, goliath",Ardea golieth,Varanus sp.,668
+"Capuchin, white-fronted",Cebus albifrons,Marmota monax,669
+Egyptian viper,Naja haje,Pavo cristatus,670
+Openbill stork,Anastomus oscitans,Anastomus oscitans,671
+"Cockatoo, sulfur-crested",Cacatua galerita,Uraeginthus bengalus,672
+"Cormorant, great",Phalacrocorax carbo,Damaliscus dorcas,673
+Steenbok,Raphicerus campestris,Eumetopias jubatus,674
+Royal tern,Thalasseus maximus,Coendou prehensilis,675
+Andean goose,Chloephaga melanoptera,Phoca vitulina,676
+"Plover, blacksmith",Vanellus armatus,Cebus apella,677
+Red-capped cardinal,Paroaria gularis,Haliaetus leucogaster,678
+Roe deer,Capreolus capreolus,Ephipplorhynchus senegalensis,679
+Red-billed tropic bird,Phaethon aethereus,Corythornis cristata,680
+"Rattlesnake, dusky",Crotalus triseriatus,Macropus robustus,681
+Kinkajou,Potos flavus,Uraeginthus angolensis,682
+"Albatross, waved",Diomedea irrorata,Tayassu pecari,683
+"Pelican, australian",Pelecanus conspicillatus,Otocyon megalotis,684
+"Wallaby, red-necked",Macropus rufogriseus,Aepyceros mylampus,685
+"Squirrel, uinta ground",Spermophilus armatus,Tapirus terrestris,686
+Barasingha deer,Cervus duvauceli,Stercorarius longicausus,687
+Defassa waterbuck,Kobus defassa,Dromaeus novaehollandiae,688
+"Lechwe, kafue flats",Kobus leche robertsi,Acrobates pygmaeus,689
+"Spoonbill, white",Platalea leucordia,Bos taurus,690
+"Wolf, timber",Canis lupus lycaon,Macropus fuliginosus,691
+Nelson ground squirrel,Ammospermophilus nelsoni,Macropus giganteus,692
+"Bee-eater, carmine",Merops nubicus,Dusicyon thous,693
+White-headed vulture,Aegypius occipitalis,Tragelaphus strepsiceros,694
+"Woodcock, american",Scolopax minor,unavailable,695
+"Bear, american black",Ursus americanus,Amblyrhynchus cristatus,696
+Civet cat,Bassariscus astutus,Myrmecophaga tridactyla,697
+Tayra,Eira barbata,Cebus apella,698
+Southern screamer,Chauna torquata,Hippotragus equinus,699
+"Deer, red",Cervus elaphus,Chauna torquata,700
+Long-billed corella,Cacatua tenuirostris,Loxodonta africana,701
+Red-tailed cockatoo,Calyptorhynchus magnificus,Spheniscus magellanicus,702
+Komodo dragon,Varanus komodensis,Cebus apella,703
+"Hyena, spotted",Crocuta crocuta,Uraeginthus granatina,704
+Comb duck,Sarkidornis melanotos,Philetairus socius,705
+"Barbet, crested",Trachyphonus vaillantii,Tachyglossus aculeatus,706
+"Oystercatcher, blackish",Haematopus ater,Paroaria gularis,707
+Alpaca,Lama pacos,Varanus albigularis,708
+"Raccoon, common",Procyon lotor,Antechinus flavipes,709
+Hoffman's sloth,Choloepus hoffmani,Echimys chrysurus,710
+Common zorro,Dusicyon thous,Parus atricapillus,711
+Four-horned antelope,Tetracerus quadricornis,Spermophilus armatus,712
+Native cat,Dasyurus viverrinus,Loris tardigratus,713
+Fisher,Martes pennanti,Cercopithecus aethiops,714
+Great egret,Casmerodius albus,Rhea americana,715
+Steller's sea lion,Eumetopias jubatus,Tapirus terrestris,716
+"Glider, sugar",Petaurus breviceps,Spheniscus mendiculus,717
+"Legaan, Monitor (unidentified)",Varanus sp.,Diomedea irrorata,718
+Black bear,Ursus americanus,Odocoileus hemionus,719
+Crab-eating raccoon,Procyon cancrivorus,Gyps bengalensis,720
+Blackbuck,Antilope cervicapra,Psophia viridis,721
+Swallow (unidentified),unavailable,Terrapene carolina,722
+"Hartebeest, red",Alcelaphus buselaphus caama,Eudromia elegans,723
+"Jackal, asiatic",Canis aureus,Cynictis penicillata,724
+Komodo dragon,Varanus komodensis,Sciurus niger,725
+"Genet, small-spotted",Genetta genetta,Canis aureus,726
+Crowned hawk-eagle,Spizaetus coronatus,Branta canadensis,727
+"Cobra, egyptian",Naja haje,Chauna torquata,728
+Silver-backed jackal,Canis mesomelas,Lutra canadensis,729
+Western patch-nosed snake,Salvadora hexalepis,Hystrix indica,730
+Tailless tenrec,Tenrec ecaudatus,Laniaurius atrococcineus,731
+Common boubou shrike,Laniarius ferrugineus,Canis lupus,732
+Swainson's francolin,Francolinus swainsonii,Pelecanus occidentalis,733
+Madagascar fruit bat,Pteropus rufus,Chelodina longicollis,734
+Defassa waterbuck,Kobus defassa,Recurvirostra avosetta,735
+"Colobus, magistrate black",Colobus guerza,Anastomus oscitans,736
+Gray langur,Semnopithecus entellus,Orcinus orca,737
+Genoveva,Junonia genoveua,Macropus rufus,738
+"Langur, common",Semnopithecus entellus,Choloepus hoffmani,739
+"Gull, herring",unavailable,Varanus sp.,740
+Herring gull,unavailable,Marmota monax,741
+"Shark, blue",Prionace glauca,Spizaetus coronatus,742
+"Fox, silver-backed",Vulpes chama,Buteo galapagoensis,743
+"Seal, harbor",Phoca vitulina,Vanellus sp.,744
+Blue crane,Anthropoides paradisea,Himantopus himantopus,745
+Common wombat,Vombatus ursinus,Bison bison,746
+Coyote,Canis latrans,Chamaelo sp.,747
+"Grenadier, purple",Uraeginthus granatina,Petaurus norfolcensis,748
+Gray rhea,Rhea americana,Mephitis mephitis,749
+North American porcupine,Erethizon dorsatum,Ctenophorus ornatus,750
+"Sparrow, house",Passer domesticus,Tachybaptus ruficollis,751
+Rhesus macaque,Macaca mulatta,Canis lupus baileyi,752
+Red-necked phalarope,Phalaropus lobatus,Zosterops pallidus,753
+Western patch-nosed snake,Salvadora hexalepis,Phalacrocorax carbo,754
+Arctic fox,Alopex lagopus,Myotis lucifugus,755
+"Tortoise, asian foreset",Manouria emys,Sula dactylatra,756
+"Langur, common",Semnopithecus entellus,Notechis semmiannulatus,757
+Glossy starling (unidentified),Lamprotornis sp.,Ovis ammon,758
+Kelp gull,Larus dominicanus,Corythornis cristata,759
+Steenbuck,Raphicerus campestris,Cervus elaphus,760
+Darwin ground finch (unidentified),Geospiza sp.,Bettongia penicillata,761
+Black-backed magpie,Gymnorhina tibicen,Phalaropus fulicarius,762
+"Waxbill, violet-eared",Uraeginthus granatina,Podargus strigoides,763
+American Virginia opossum,Didelphis virginiana,Papio cynocephalus,764
+"Kangaroo, red",Macropus rufus,Neophron percnopterus,765
+Arctic ground squirrel,Spermophilus parryii,Nycticorax nycticorax,766
+Kirk's dik dik,Madoqua kirkii,Mazama americana,767
+"Teal, hottentot",Anas punctata,Mungos mungo,768
+"Wallaby, euro",Macropus robustus,Aonyx cinerea,769
+Red and blue macaw,Ara chloroptera,Anthropoides paradisea,770
+"Legaan, ground",Varanus sp.,Balearica pavonina,771
+Koala,Phascolarctos cinereus,Oncorhynchus nerka,772
+"Phalarope, red",Phalaropus fulicarius,Papio cynocephalus,773
+Springbok,Antidorcas marsupialis,Dasyurus viverrinus,774
+Dama wallaby,Macropus eugenii,Vulpes vulpes,775
+"Cat, cape wild",Felis libyca,Lybius torquatus,776
+King vulture,Sarcorhamphus papa,unavailable,777
+White-tailed deer,Odocoilenaus virginianus,Genetta genetta,778
+African fish eagle,Haliaetus vocifer,Toxostoma curvirostre,779
+"Glider, sugar",Petaurus breviceps,Spilogale gracilis,780
+"Lory, rainbow",Trichoglossus haematodus moluccanus,Larus fuliginosus,781
+Vine snake (unidentified),Oxybelis sp.,Phalacrocorax carbo,782
+"Buffalo, american",Bison bison,Choloepus hoffmani,783
+"Hoopoe, eurasian",Upupa epops,Procyon cancrivorus,784
+Hottentot teal,Anas punctata,Stenella coeruleoalba,785
+Greater kudu,Tragelaphus strepsiceros,Milvus migrans,786
+Crowned eagle,Spizaetus coronatus,Ephippiorhynchus mycteria,787
+Flying fox (unidentified),unavailable,Pavo cristatus,788
+"Stork, marabou",Leptoptilos crumeniferus,Cebus apella,789
+Plains zebra,Equus burchelli,Hystrix cristata,790
+White rhinoceros,Ceratotherium simum,Pelecans onocratalus,791
+Aardwolf,Proteles cristatus,Sula dactylatra,792
+Southern lapwing,Vanellus chilensis,Francolinus coqui,793
+"Heron, black-crowned night",Nycticorax nycticorax,Corvus brachyrhynchos,794
+Gaur,Bos frontalis,Eumetopias jubatus,795
+Crested screamer,Chauna torquata,Macaca fuscata,796
+Fork-tailed drongo,Dicrurus adsimilis,Mirounga angustirostris,797
+"Capuchin, white-fronted",Cebus albifrons,Pteropus rufus,798
+Snake-necked turtle,Chelodina longicollis,Laniaurius atrococcineus,799
+Emu,Dromaeus novaehollandiae,Snycerus caffer,800
+Galapagos albatross,Diomedea irrorata,Tamandua tetradactyla,801
+African red-eyed bulbul,Pycnonotus nigricans,Chlidonias leucopterus,802
+Secretary bird,Sagittarius serpentarius,Ephipplorhynchus senegalensis,803
+"Fox, asian red",Vulpes vulpes,Procyon lotor,804
+"Fox, north american red",Vulpes vulpes,Connochaetus taurinus,805
+Wolf spider,Lycosa godeffroyi,Lutra canadensis,806
+Tsessebe,Damaliscus lunatus,Eubalaena australis,807
+Red-billed tropic bird,Phaethon aethereus,Kobus defassa,808
+"Woodcock, american",Scolopax minor,Sciurus niger,809
+Ground monitor (unidentified),Varanus sp.,Bettongia penicillata,810
+"Duck, mountain",Hymenolaimus malacorhynchus,Hyaena brunnea,811
+"Moccasin, water",Agkistrodon piscivorus,Bettongia penicillata,812
+Agile wallaby,Macropus agilis,Dacelo novaeguineae,813
+Pallas's fish eagle,Haliaeetus leucoryphus,Vombatus ursinus,814
+Bent-toed gecko,Cyrtodactylus louisiadensis,Dusicyon thous,815
+Red-breasted cockatoo,Eolophus roseicapillus,Ovis ammon,816
+Eastern white pelican,Pelecans onocratalus,Nectarinia chalybea,817
+"Lizard, blue-tongued",Tiliqua scincoides,Lepus arcticus,818
+House sparrow,Passer domesticus,Dendrohyrax brucel,819
+"Dove, little brown",Streptopelia senegalensis,Limnocorax flavirostra,820
+Blue-breasted cordon bleu,Uraeginthus angolensis,Paradoxurus hermaphroditus,821
+"Squirrel, red",Tamiasciurus hudsonicus,Gabianus pacificus,822
+"Admiral, indian red",Vanessa indica,Felis chaus,823
+"Vulture, black",Aegypius tracheliotus,Callipepla gambelii,824
+"Porcupine, prehensile-tailed",Coendou prehensilis,Nycticorax nycticorax,825
+"Beaver, european",Castor fiber,Threskionis aethiopicus,826
+Red-shouldered glossy starling,Lamprotornis nitens,Laniarius ferrugineus,827
+Long-billed cockatoo,Cacatua tenuirostris,Myrmecophaga tridactyla,828
+"Kiskadee, great",Pitangus sulphuratus,Terrapene carolina,829
+"Wolf, mexican",Canis lupus baileyi,Taxidea taxus,830
+Crested barbet,Trachyphonus vaillantii,Cercopithecus aethiops,831
+"Stork, jabiru",Ephippiorhynchus mycteria,Anser caerulescens,832
+Magnificent frigate bird,Fregata magnificans,Isoodon obesulus,833
+Eastern indigo snake,Drymarchon corias couperi,Plectopterus gambensis,834
+"Bear, american black",Ursus americanus,Anas punctata,835
+Common waterbuck,Kobus defassa,Hystrix indica,836
+European red squirrel,Sciurus vulgaris,Tenrec ecaudatus,837
+"Boa, columbian rainbow",Epicrates cenchria maurus,Lasiodora parahybana,838
+Blue peacock,Pavo cristatus,Leptoptilus dubius,839
+Sarus crane,Grus antigone,Butorides striatus,840
+"Squirrel, eurasian red",Sciurus vulgaris,Loris tardigratus,841
+"Coot, red-knobbed",Fulica cristata,Crocuta crocuta,842
+"Jackal, golden",Canis aureus,Perameles nasuta,843
+Radiated tortoise,Geochelone radiata,Anser anser,844
+Savanna fox,Dusicyon thous,Geochelone elephantopus,845
+Rhesus monkey,Macaca mulatta,Naja nivea,846
+Red kangaroo,Macropus rufus,Papilio canadensis,847
+"Heron, little",Butorides striatus,Eutamias minimus,848
+Masked booby,Sula dactylatra,Sauromalus obesus,849
+Rock dove,Columba livia,Lasiorhinus latifrons,850
+"Boa, malagasy ground",Acrantophis madagascariensis,Cebus apella,851
+"Mongoose, yellow",Cynictis penicillata,Corvus albicollis,852
+Turtle (unidentified),unavailable,Meles meles,853
+Collared lizard,Crotaphytus collaris,Zalophus californicus,854
+"Heron, gray",Ardea cinerea,Chlamydosaurus kingii,855
+Sugar glider,Petaurus breviceps,Naja haje,856
+Vervet monkey,Cercopithecus aethiops,Tetracerus quadricornis,857
+"Bison, american",Bison bison,Propithecus verreauxi,858
+"Grebe, little",Tachybaptus ruficollis,Bucephala clangula,859
+Warthog,Phacochoerus aethiopus,Nannopterum harrisi,860
+"Moorhen, purple",Porphyrio porphyrio,Taurotagus oryx,861
+"Hare, arctic",Lepus arcticus,Anastomus oscitans,862
+Red-billed tropic bird,Phaethon aethereus,Carduelis pinus,863
+"Racer, blue",Coluber constrictor foxii,Bettongia penicillata,864
+Emu,Dromaeus novaehollandiae,Gopherus agassizii,865
+"Pigeon, wood",Columba palumbus,Rhea americana,866
+Barasingha deer,Cervus duvauceli,Dasyurus maculatus,867
+"Genet, common",Genetta genetta,Balearica pavonina,868
+South African hedgehog,Erinaceus frontalis,Sula dactylatra,869
+"Jackal, asiatic",Canis aureus,Melursus ursinus,870
+"Fox, blue",Alopex lagopus,Mabuya spilogaster,871
+Red-tailed hawk,Buteo jamaicensis,Isoodon obesulus,872
+"Mongoose, javan gold-spotted",Herpestes javanicus,Oryx gazella,873
+Red-billed buffalo weaver,Bubalornis niger,Climacteris melanura,874
+"Squirrel, thirteen-lined",Spermophilus tridecemlineatus,Platalea leucordia,875
+"Ibis, sacred",Threskionis aethiopicus,Phascogale tapoatafa,876
+Fat-tailed dunnart,Smithopsis crassicaudata,Zalophus californicus,877
+"Grenadier, common",Uraeginthus granatina,Cracticus nigroagularis,878
+Coqui partridge,Francolinus coqui,Agkistrodon piscivorus,879
+"Stork, black-necked",Ephippiorhynchus mycteria,Hippotragus equinus,880
+"Flicker, field",Colaptes campestroides,Eolophus roseicapillus,881
+Common turkey,Meleagris gallopavo,Coracias caudata,882
+Nine-banded armadillo,Dasypus novemcinctus,Ceratotherium simum,883
+Malagasy ground boa,Acrantophis madagascariensis,Cervus canadensis,884
+Eastern quoll,Dasyurus viverrinus,Cynictis penicillata,885
+"Hawk, ferruginous",Buteo regalis,Geochelone radiata,886
+"Dog, bush",Speothos vanaticus,Erinaceus frontalis,887
+Red-winged blackbird,Agelaius phoeniceus,Cynomys ludovicianus,888
+"Bat, madagascar fruit",Pteropus rufus,Alces alces,889
+"Monkey, bleeding heart",Theropithecus gelada,Pavo cristatus,890
+Red-winged blackbird,Agelaius phoeniceus,Cyrtodactylus louisiadensis,891
+"Wallaby, dama",Macropus eugenii,Lasiodora parahybana,892
+Yellow-billed hornbill,Tockus flavirostris,Thamnolaea cinnmomeiventris,893
+"Francolin, swainson's",Francolinus swainsonii,Herpestes javanicus,894
+Tree porcupine,Coendou prehensilis,Papio cynocephalus,895
+Praying mantis (unidentified),unavailable,Gyps bengalensis,896
+"Fox, cape",Vulpes chama,unavailable,897
+Paca,Agouti paca,Caiman crocodilus,898
+"Hornbill, leadbeateri's ground",Bucorvus leadbeateri,Bettongia penicillata,899
+African snake (unidentified),unavailable,Loris tardigratus,900
+"Colobus, black and white",Colobus guerza,Chelodina longicollis,901
+Yellow-necked spurfowl,Francolinus leucoscepus,Bucorvus leadbeateri,902
+"Rat, arboral spiny",Echimys chrysurus,Choloepus hoffmani,903
+Praying mantis (unidentified),unavailable,Zalophus californicus,904
+"Rat, desert kangaroo",Dipodomys deserti,Anas bahamensis,905
+Asiatic jackal,Canis aureus,Ciconia episcopus,906
+"Coatimundi, white-nosed",Nasua narica,Bubalornis niger,907
+Lappet-faced vulture,Aegypius tracheliotus,Mungos mungo,908
+"Civet, common palm",Paradoxurus hermaphroditus,Colobus guerza,909
+Northern phalarope,Phalaropus lobatus,Semnopithecus entellus,910
+White-necked raven,Corvus albicollis,Eudyptula minor,911
+Bontebok,Damaliscus dorcas,Didelphis virginiana,912
+"Roadrunner, greater",Geococcyx californianus,Cygnus buccinator,913
+"Dragon, ornate rock",Ctenophorus ornatus,Naja haje,914
+"Wolf, mexican",Canis lupus baileyi,Lorythaixoides concolor,915
+"Vulture, white-rumped",Gyps bengalensis,Lamprotornis nitens,916
+"Pigeon, feral rock",Columba livia,Varanus albigularis,917
+"Marten, american",Martes americana,Gekko gecko,918
+"Deer, savannah",Mazama gouazoubira,Anser anser,919
+Gray rhea,Rhea americana,Corallus hortulanus cooki,920
+Fringe-eared oryx,Oryx gazella callotis,Alopex lagopus,921
+"Wallaroo, common",Macropus robustus,Mycteria ibis,922
+Striped hyena,Hyaena hyaena,Myotis lucifugus,923
+Euro wallaby,Macropus robustus,Zenaida asiatica,924
+"Capuchin, white-fronted",Cebus albifrons,Hymenolaimus malacorhynchus,925
+"Macaque, rhesus",Macaca mulatta,Porphyrio porphyrio,926
+"Rat, white-faced tree",Echimys chrysurus,Spermophilus richardsonii,927
+Swallow (unidentified),unavailable,Neotis denhami,928
+Common duiker,Sylvicapra grimma,Trichoglossus haematodus moluccanus,929
+"Butterfly, tropical buckeye",Junonia genoveua,Tadorna tadorna,930
+"Cat, jungle",Felis chaus,Choloepus hoffmani,931
+American marten,Martes americana,Larus novaehollandiae,932
+"Marmot, hoary",Marmota caligata,Mazama gouazoubira,933
+"Capuchin, weeper",Cebus nigrivittatus,Speotyte cuniculata,934
+"Boar, wild",Sus scrofa,Milvus migrans,935
+Bahama pintail,Anas bahamensis,Lasiodora parahybana,936
+Sandhill crane,Grus canadensis,Spilogale gracilis,937
+Asian lion,Panthera leo persica,Nesomimus trifasciatus,938
+Bohor reedbuck,Redunca redunca,Cervus unicolor,939
+Malagasy ground boa,Acrantophis madagascariensis,Zosterops pallidus,940
+Western palm tanager (unidentified),unavailable,Bos mutus,941
+Urial,Ovis orientalis,Dasyurus maculatus,942
+Egyptian viper,Naja haje,Cynomys ludovicianus,943
+"Toucan, red-billed",Ramphastos tucanus,Trichoglossus haematodus moluccanus,944
+"Toucan, red-billed",Ramphastos tucanus,Anastomus oscitans,945
+"Otter, african clawless",Aonyx capensis,Ictalurus furcatus,946
+Egyptian cobra,Naja haje,Lepus townsendii,947
+"Rattlesnake, eastern diamondback",Crotalus adamanteus,Trachyphonus vaillantii,948
+Sea birds (unidentified),unavailable,Ciconia episcopus,949
+"Swan, black",Cygnus atratus,unavailable,950
+"Cat, ringtail",Bassariscus astutus,Branta canadensis,951
+Water moccasin,Agkistrodon piscivorus,Mycteria ibis,952
+White-throated toucan,Ramphastos tucanus,Callipepla gambelii,953
+"Egret, great",Casmerodius albus,Zosterops pallidus,954
+"White-eye, cape",Zosterops pallidus,Thalasseus maximus,955
+"Elephant, asian",Elephas maximus bengalensis,Lophoaetus occipitalis,956
+Pale white-eye,Zosterops pallidus,Vulpes vulpes,957
+King cormorant,Phalacrocorax albiventer,Agama sp.,958
+"Seal, common",Phoca vitulina,Butorides striatus,959
+"Shrew, mandras tree",Anathana ellioti,Canis lupus lycaon,960
+"Squirrel, indian giant",Ratufa indica,Papio ursinus,961
+Gray heron,Ardea cinerea,Laniaurius atrococcineus,962
+Red-billed buffalo weaver,Bubalornis niger,Felis caracal,963
+"Screamer, crested",Chauna torquata,Bucorvus leadbeateri,964
+"Dog, raccoon",Nyctereutes procyonoides,Climacteris melanura,965
+"Lemur, ring-tailed",Lemur catta,Cervus canadensis,966
+Asian elephant,Elephas maximus bengalensis,Hymenolaimus malacorhynchus,967
+Capybara,Hydrochoerus hydrochaeris,Lemur fulvus,968
+Blackbuck,Antilope cervicapra,Milvago chimachima,969
+Hanuman langur,Semnopithecus entellus,Geococcyx californianus,970
+"Goose, cereopsis",Cereopsis novaehollandiae,Dasyurus viverrinus,971
+Gray duiker,Sylvicapra grimma,Threskionis aethiopicus,972
+Cook's tree boa,Corallus hortulanus cooki,Dasyurus maculatus,973
+"Hedgehog, south african",Erinaceus frontalis,Damaliscus dorcas,974
+Royal tern,Thalasseus maximus,Phascogale calura,975
+Squirrel glider,Petaurus norfolcensis,Cervus elaphus,976
+Asiatic jackal,Canis aureus,Canis aureus,977
+Black-throated cardinal,Paroaria gularis,Prionace glauca,978
+Blesbok,Damaliscus dorcas,Mazama gouazoubira,979
+"Badger, european",Meles meles,Phylurus milli,980
+Emerald-spotted wood dove,Turtur chalcospilos,Choloepus hoffmani,981
+"Monster, gila",Heloderma horridum,Neotis denhami,982
+Black-tailed tree creeper,Climacteris melanura,Eolophus roseicapillus,983
+"Wallaby, whip-tailed",Macropus parryi,Dasypus novemcinctus,984
+"Lemur, sportive",Lepilemur rufescens,Cordylus giganteus,985
+White-tailed deer,Odocoilenaus virginianus,Axis axis,986
+"Waxbill, black-cheeked",Estrilda erythronotos,Colobus guerza,987
+"White-eye, pale",Zosterops pallidus,Felis chaus,988
+"Otter, oriental short-clawed",Aonyx cinerea,Ciconia episcopus,989
+African darter,Anhinga rufa,Semnopithecus entellus,990
+Salmon pink bird eater tarantula,Lasiodora parahybana,Anhinga rufa,991
+Red phalarope,Phalaropus fulicarius,Amphibolurus barbatus,992
+"Crow, pied",Corvus albus,Cacatua tenuirostris,993
+"Porcupine, african",Hystrix cristata,Ctenophorus ornatus,994
+"Boa, columbian rainbow",Epicrates cenchria maurus,Herpestes javanicus,995
+"Gull, silver",Larus novaehollandiae,Macropus agilis,996
+Common zebra,Equus burchelli,Naja haje,997
+Mexican beaded lizard,Heloderma horridum,Bos mutus,998
+Yellow-billed hornbill,Tockus flavirostris,Cercatetus concinnus,999
+Purple grenadier,Uraeginthus granatina,Gymnorhina tibicen,1000
